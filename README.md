@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello, I'm Viktoria Zolotova 👋
 
-<!--
-**viktoriiazolotova/viktoriiazolotova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer with experience in web development. I enjoy building applications that solve real-world problems and using data to gain insights and drive decision-making.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- JavaScript
+- React
+- Django
+- Flask
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [PetCareExchange API](https://github.com/viktoriiazolotova/django-react-pet-care-exchange) - A RESTful API for managing petsitters and pets built with Django and React.
+
+
+## Get In Touch
+- LinkedIn: [Viktoria Zolotova](https://www.linkedin.com/in/viktoria-zolotova/)
+- Email: viktoria.zolotova@gmail.com
+
