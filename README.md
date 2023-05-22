@@ -27,6 +27,8 @@ One of my proudest moments was reaching the Camp Muir, standing tall at 10,188 f
 
 ## Projects
 - [PetCareExchange API](https://github.com/viktoriiazolotova/django-react-pet-care-exchange) - A RESTful API for managing petsitters and pets built with Django and React.
+- [PetCareExchange Front End](https://github.com/viktoriiazolotova/front-end-pet-care-exchange) - A web application for pet owners to exchange pet care services for free built with React JS and Bootstrap.
+
 
 
 ## Get In Touch
