@@ -1,8 +1,8 @@
-# Hello, I'm Viktoria 👋
+# Hello, I'm Viktoriia 👋
 
 I'm a software engineer with experience in web development. I enjoy building applications that solve real-world problems and using data to gain insights and drive decision-making.
 
-- 🌱 I’m currently learning Redux and React testing library.
+- 🌱 I’m currently learning Node.js and Express framework.
 - 💬 Ask me anything about coding and career change.
 - ⚡ Fun fact: I'm a cat lover and an avid hiker.
 One of my proudest moments was reaching the Camp Muir, standing tall at 10,188 feet!
