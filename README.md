@@ -38,6 +38,6 @@ One of my proudest moments was reaching the Camp Muir, standing tall at 10,188 f
 
 ## Get In Touch
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/viktoriiazolotova/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-yellowgreen?style=flat-square)](https://viktoriiazolotova.github.io/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-yellowgreen?style=flat-square)](https://viktoriiazolotova.netlify.app)
 
 
