@@ -34,7 +34,7 @@ One of my proudest moments was reaching the Camp Muir, standing tall at 10,188 f
 1. **PetCareExchange** - [PetCareExchange API](https://github.com/viktoriiazolotova/django-react-pet-care-exchange)
 - Developed a scalable RESTful API using Python Django and PostgreSQL, facilitating efficient management of petsitters and pets. Implemented AWS S3 integration for seamless storage and retrieval of pet-related media files. Successfully deployed the API on Heroku.
    
-2. **PetCareExchange** - [Front End](https://github.com/viktoriiazolotova/front-end-pet-care-exchange) | [Demo](https://youtu.be/2J2XKKKPKHU)
+2. **PetCareExchange** - [Front End](https://github.com/viktoriiazolotova/front-end-pet-care-exchange) | [Demo](https://youtu.be/2J2XKKKPKHU) | [Live Site](https://pet-care-exchange-react.web.app/)
 - Designed and built a responsive web application using React JS and Bootstrap, enabling pet owners to easily exchange pet care services, and deployed it on Google Firebase.
    
 3. **Inspiration Board** - [Front End](https://github.com/viviantomato/front-end-inspiration-board) | [Backend End](https://github.com/viviantomato/back-end-inspiration-board) | [Demo](https://youtu.be/XN-w03iGvuE)
