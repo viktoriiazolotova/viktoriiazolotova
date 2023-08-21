@@ -41,6 +41,7 @@ One of my proudest moments was reaching the Camp Muir, standing tall at 10,188 f
 - **Tech:** Flask, PostgreSQL, SQLAlchemy, React, Python, Javascript, HTML/CSS, deployed on Heroku
 - Collaborated in a 3-person team to design and create an interactive web application that enabled users to post inspirational messages to a board owned by multiple individuals
 - Led the front-end design and development of a React-based web application, utilizing Props and Hooks to implement user interface while following the industry best practices and standards
+- Implemented test-driven development using Pytest and fixtures to rigorously validate board and card creation and retrieval routes, ensuring code reliability.
 
 
 
