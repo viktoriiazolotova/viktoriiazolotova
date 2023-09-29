@@ -31,13 +31,13 @@ One of my proudest moments was reaching the Camp Muir, standing tall at 10,188 f
 [![Firebase](https://img.shields.io/badge/Firebase-orange)](https://firebase.google.com/)
 
 ## Projects
-1. **PetCareExchange** - [PetCareExchange API](https://github.com/viktoriiazolotova/django-react-pet-care-exchange)
+### PetCareExchange - [PetCareExchange API](https://github.com/viktoriiazolotova/django-react-pet-care-exchange)
 - Developed a scalable RESTful API using Python Django and PostgreSQL, facilitating efficient management of petsitters and pets. Implemented AWS S3 integration for seamless storage and retrieval of pet-related media files. Successfully deployed the API on Heroku.
    
-2. **PetCareExchange** - [Front End](https://github.com/viktoriiazolotova/front-end-pet-care-exchange) | [Demo](https://youtu.be/2J2XKKKPKHU) | [Live Site](https://pet-care-exchange-react.web.app/)
+### PetCareExchange - [Front End](https://github.com/viktoriiazolotova/front-end-pet-care-exchange) | [Demo](https://youtu.be/2J2XKKKPKHU) | [Live Site](https://pet-care-exchange-react.web.app/)
 - Designed and built a responsive web application using React JS and Bootstrap, enabling pet owners to easily exchange pet care services, and deployed it on Google Firebase.
    
-3. **Inspiration Board** - [Front End](https://github.com/viviantomato/front-end-inspiration-board) | [Backend End](https://github.com/viviantomato/back-end-inspiration-board) | [Demo](https://youtu.be/XN-w03iGvuE)
+### Inspiration Board - [Front End](https://github.com/viviantomato/front-end-inspiration-board) | [Backend End](https://github.com/viviantomato/back-end-inspiration-board) | [Demo](https://youtu.be/XN-w03iGvuE)
 - **Tech:** Flask, PostgreSQL, SQLAlchemy, React, Python, Javascript, HTML/CSS, deployed on Heroku
 - Collaborated in a 3-person team to design and create an interactive web application that enabled users to post inspirational messages to a board owned by multiple individuals
 - Led the front-end design and development of a React-based web application, utilizing Props and Hooks to implement user interface while following the industry best practices and standards
