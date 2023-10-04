@@ -11,6 +11,11 @@ I'm a software engineer with experience in web development. I enjoy building app
 - ⚡ Fun fact: I'm a cat lover and an avid hiker.
 One of my proudest moments was reaching the Camp Muir, standing tall at 10,188 feet!
 
+## Get In Touch
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/viktoriiazolotova/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-yellowgreen?style=flat-square)](https://viktoriiazolotova.netlify.app)
+
+
 ## Technologies
 - **Frontend:**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square)
@@ -57,9 +62,5 @@ One of my proudest moments was reaching the Camp Muir, standing tall at 10,188 f
 - Implemented test-driven development using Pytest and fixtures to rigorously validate board and card creation and retrieval routes, ensuring code reliability.
 
 
-
-## Get In Touch
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/viktoriiazolotova/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-yellowgreen?style=flat-square)](https://viktoriiazolotova.netlify.app)
 
 
