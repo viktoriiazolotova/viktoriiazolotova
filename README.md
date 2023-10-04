@@ -3,6 +3,8 @@
 
 
 # Hello, I'm Viktoriia 👋
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/viktoriiazolotova/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-yellowgreen?style=flat-square)](https://viktoriiazolotova.netlify.app)
 
 I'm a software engineer with experience in web development. I enjoy building applications that solve real-world problems and using data to gain insights and drive decision-making.
 
@@ -10,11 +12,6 @@ I'm a software engineer with experience in web development. I enjoy building app
 - 💬 Ask me anything about coding and career change.
 - ⚡ Fun fact: I'm a cat lover and an avid hiker.
 One of my proudest moments was reaching the Camp Muir, standing tall at 10,188 feet!
-
-## Get In Touch
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/viktoriiazolotova/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-yellowgreen?style=flat-square)](https://viktoriiazolotova.netlify.app)
-
 
 ## Technologies
 - **Frontend:**
