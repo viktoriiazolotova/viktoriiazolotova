@@ -4,7 +4,7 @@
 
 # Hello, I'm Viktoriia 👋
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/viktoriiazolotova/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-yellowgreen?style=flat-square)](https://viktoriiazolotova.netlify.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat-square)](https://viktoriiazolotova.netlify.app)
 
 I'm a software engineer with experience in web development. I enjoy building applications that solve real-world problems and using data to gain insights and drive decision-making.
 
@@ -58,6 +58,9 @@ One of my proudest moments was reaching the Camp Muir, standing tall at 10,188 f
 - Led the front-end design and development of a React-based web application, utilizing Props and Hooks to implement user interface while following the industry best practices and standards
 - Implemented test-driven development using Pytest and fixtures to rigorously validate board and card creation and retrieval routes, ensuring code reliability.
 
+### My GitHub Stats
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viktoriiazolotova&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true)](http://www.github.com/viktoriiazolotova)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viktoriiazolotova&langs_count=5&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%205%20Languages)](https://github.com/viktoriiazolotova)
 
 
