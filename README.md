@@ -1,3 +1,7 @@
+
+![Cowee Mtn Overlook-Pano-web](https://github.com/viktoriiazolotova/viktoriiazolotova/assets/74393811/299c8943-c88b-4266-9112-5fc21988c79d)
+
+
 # Hello, I'm Viktoriia 👋
 
 I'm a software engineer with experience in web development. I enjoy building applications that solve real-world problems and using data to gain insights and drive decision-making.
