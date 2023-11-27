@@ -8,7 +8,7 @@
 
 I'm a software engineer with experience in web development. I enjoy building applications that solve real-world problems and using data to gain insights and drive decision-making.
 
-- 🌱 I’m currently learning C# and building SnowmanGame ☃️;
+- 🌱 I’m currently learning C# and building SnowmanGame ☃️
 - ✨ I recently built memory game with JavaScript, React and Netlify. Check it out: [Kitty Wonderland](https://kitty-wonderland.netlify.app/)
 - 💬 Ask me anything about coding and career change.
 - ⚡ Fun fact: I'm a cat lover and an avid hiker.
