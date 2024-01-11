@@ -50,7 +50,7 @@ One of my proudest moments was reaching the Camp Muir, standing tall at 10,188 f
 
 ## Projects
 
-### Kitty Wonderland - [Front End](https://github.com/viktoriiazolotova/django-react-pet-care-exchange) | [Live Site](https://kitty-wonderland.netlify.app/)
+### Kitty Wonderland - [Front End](https://github.com/viktoriiazolotova/react-memory-game) | [Live Site](https://kitty-wonderland.netlify.app/)
 - **Tech Stack:** JavaScript, React, HTML, CSS, GitHub and Netlify.
 - Developed a web application developed to boost memory skills, regardless of age.
 - Enhanced a 4x4 game board with 16 randomly chosen kitten-themed cards using JavaScript, React, HTML, and CSS.
