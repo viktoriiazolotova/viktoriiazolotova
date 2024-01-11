@@ -31,6 +31,8 @@ One of my proudest moments was reaching the Camp Muir, standing tall at 10,188 f
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white&style=flat-square)
 ![REST API](https://img.shields.io/badge/-REST%20API-007ACC?style=flat-square)
+[![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+
 - **Testing:** 
 ![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-DB7093?logo=testing-library&logoColor=white&style=flat-square)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat-square)
