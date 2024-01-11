@@ -49,6 +49,15 @@ One of my proudest moments was reaching the Camp Muir, standing tall at 10,188 f
 [![Firebase](https://img.shields.io/badge/Firebase-orange)](https://firebase.google.com/)
 
 ## Projects
+
+### Kitty Wonderland - [Front End](https://github.com/viktoriiazolotova/django-react-pet-care-exchange) | [Live Site](https://kitty-wonderland.netlify.app/)
+- **Tech Stack:** JavaScript, React, HTML, CSS, GitHub and Netlify.
+- Developed a web application developed to boost memory skills, regardless of age.
+- Enhanced a 4x4 game board with 16 randomly chosen kitten-themed cards using JavaScript, React, HTML, and CSS.
+- Customized the game experience for each player by implementing a best score feature using local storage.
+- Increased feature delivery efficiency by 50% with a CI/CD pipeline using GitHub and Netlify.
+- Ensured exceptional accessibility compliance by rigorously testing the website with WAVE (Web Accessibility Tool) and Lighthouse, adhering to WCAG guidelines.
+  
 ### PetCareExchange - [PetCareExchange API](https://github.com/viktoriiazolotova/django-react-pet-care-exchange)
 - Developed a scalable RESTful API using Python Django and PostgreSQL, facilitating efficient management of petsitters and pets. Implemented AWS S3 integration for seamless storage and retrieval of pet-related media files. Successfully deployed the API on Heroku.
    
@@ -56,7 +65,7 @@ One of my proudest moments was reaching the Camp Muir, standing tall at 10,188 f
 - Designed and built a responsive web application using React JS and Bootstrap, enabling pet owners to easily exchange pet care services, and deployed it on Google Firebase.
    
 ### Inspiration Board - [Front End](https://github.com/viviantomato/front-end-inspiration-board) | [Backend End](https://github.com/viviantomato/back-end-inspiration-board) | [Demo](https://youtu.be/XN-w03iGvuE)
-- **Tech:** Flask, PostgreSQL, SQLAlchemy, React, Python, Javascript, HTML/CSS, deployed on Heroku
+- **Tech stack:** Flask, PostgreSQL, SQLAlchemy, React, Python, Javascript, HTML/CSS, deployed on Heroku
 - Collaborated in a 3-person team to design and create an interactive web application that enabled users to post inspirational messages to a board owned by multiple individuals
 - Led the front-end design and development of a React-based web application, utilizing Props and Hooks to implement user interface while following the industry best practices and standards
 - Implemented test-driven development using Pytest and fixtures to rigorously validate board and card creation and retrieval routes, ensuring code reliability.
