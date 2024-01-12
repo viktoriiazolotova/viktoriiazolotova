@@ -50,7 +50,11 @@ One of my proudest moments was reaching the Camp Muir, standing tall at 10,188 f
 
 ## Projects
 
-### Snowman Game - [Backend End](https://github.com/viktoriiazolotova/cSharpSnowman)
+### SwapMeet (C#) - [Backend End](https://github.com/viktoriiazolotova/cSharpSwapMeet)
+- **Tech Stack:** C#, .NET, Object-Oriented Programming (OOP), GitHub.
+- Developed console-based app where vendors can swap items between different inventories. 
+
+### Snowman Game (C#) - [Backend End](https://github.com/viktoriiazolotova/cSharpSnowman)
 - **Tech Stack:** C#, .NET, Object-Oriented Programming (OOP), GitHub.
 - Developed an interactive console-based word guessing game by rapidly learning and applying the C# programming language and .NET framework
 
