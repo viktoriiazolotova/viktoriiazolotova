@@ -50,7 +50,11 @@ One of my proudest moments was reaching the Camp Muir, standing tall at 10,188 f
 
 ## Projects
 
-### Astro Talk, Web App | [Front End](https://github.com/viktoriiazolotova/chat-app-frontend) | [Backend End](https://github.com/viktoriiazolotova/chat-app-backend) | [Live Site](https://astro-live-chat.netlify.app/) | 10/2023 - 10/2023
+### Snowman Game - [Backend End](https://github.com/viktoriiazolotova/cSharpSnowman)
+- **Tech Stack:** C#, .NET, Object-Oriented Programming (OOP), GitHub.
+- Developed an interactive console-based word guessing game by rapidly learning and applying the C# programming language and .NET framework
+
+### Astro Talk - [Front End](https://github.com/viktoriiazolotova/chat-app-frontend) | [Backend End](https://github.com/viktoriiazolotova/chat-app-backend) | [Live Site](https://astro-live-chat.netlify.app/)
 - **Tech Stack:** JavaScript, React, Node.js, Express, Socket.IO, HTML, CSS, GitHub, Netlify, Heroku.
 - Implemented real-time chat functionality using JavaScript, React, Node, Express and Socket.io library, allowing multiple users to join specific chat rooms and post messages concurrently.
 - Enhanced user experience by integrating the NASA API to display daily astronomy pictures below the chat history.
