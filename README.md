@@ -50,6 +50,11 @@ One of my proudest moments was reaching the Camp Muir, standing tall at 10,188 f
 
 ## Projects
 
+### Astro Talk, Web App | [Front End](https://github.com/viktoriiazolotova/chat-app-frontend) | [Backend End](https://github.com/viktoriiazolotova/chat-app-backend) | [Demo](https://astro-live-chat.netlify.app/) | 10/2023 - 10/2023
+- **Tech Stack:** JavaScript, React, Node.js, Express, Socket.IO, HTML, CSS, GitHub, Netlify, Heroku.
+- Implemented real-time chat functionality using JavaScript, React, Node, Express and Socket.io library, allowing multiple users to join specific chat rooms and post messages concurrently.
+- Enhanced user experience by integrating the NASA API to display daily astronomy pictures below the chat history.
+
 ### Kitty Wonderland - [Front End](https://github.com/viktoriiazolotova/react-memory-game) | [Live Site](https://kitty-wonderland.netlify.app/)
 - **Tech Stack:** JavaScript, React, HTML, CSS, GitHub and Netlify.
 - Developed a web application developed to boost memory skills, regardless of age.
